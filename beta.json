@@ -1,0 +1,8 @@
+{
+"ver": "None",
+"changelog": "None",
+"url": "None",
+"bugs": "Not all strings have been properly translated, relocations not complete, Menu is currently screwed up",
+"actions": "Test for significant lag in utilities, test for unexpected behavior",
+"date": "7/4/2019 (DD/MM/YYYY)"
+}
