@@ -1,8 +1,9 @@
 {
-"ver": "None",
-"changelog": "None",
-"url": "None",
+"ver": "2.0",
+"beta": "1.0"
+"changelog": "cập nhật s",
+"url": "https://www.icloud.com/shortcuts/b808dadfae7e491fb9b761b4e3ea99f0",
 "bugs": "Not all strings have been properly translated, relocations not complete, Menu is currently screwed up",
 "actions": "Test for significant lag in utilities, test for unexpected behavior",
-"date": "7/4/2019 (DD/MM/YYYY)"
+"date": " 21/5/2019 "
 }
